@@ -1,1 +1,1 @@
-This is understanding shell variables and expansions
+This is to understand variables and expansions
